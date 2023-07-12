@@ -1,6 +1,6 @@
 {
-  "homepage": "https://35anurag.github.io/netflix-clone",
   "name": "netflix-clone",
+  "homepage": "https://35anurag.github.io/netflix-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
